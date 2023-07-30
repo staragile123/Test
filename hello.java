@@ -6,5 +6,6 @@ class HelloWorld {
         System.out.println("Hello Jeevitha");
 	System.out.println("Hello feature/devops!");
 	System.out.println("Hello merged main!");
+	System.out.println("Hello merged-feature");
     }
 }
